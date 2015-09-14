@@ -33,6 +33,7 @@
     ├── 密码安全研究.jpg
     ├── 渗透测试实验室.jpg
     ├── 运维职业技术点.jpg
+    ├── 工控安全案例.pdf
     ├── 工控系统安全及应对.jpg
     ├── 密码找回逻辑漏洞总结.png
     ├── 微软深度防御安全模型7层安全防御.jpg
@@ -68,6 +69,7 @@
 + [XSS攻击点汇总.png](https://raw.githubusercontent.com/SecWiki/sec-chart/master/XSS攻击点汇总.png)
 + [运维职业技术点.jpg](https://raw.githubusercontent.com/SecWiki/sec-chart/master/运维职业技术点.jpg)
 + [amazon云安全体系.jpg](https://raw.githubusercontent.com/SecWiki/sec-chart/master/amazon云安全体系.jpg)
++ [工控安全案例.pdf](https://raw.githubusercontent.com/SecWiki/sec-chart/master/工控安全案例.pdf)
 + [工控系统安全及应对.jpg](https://raw.githubusercontent.com/SecWiki/sec-chart/master/工控系统安全及应对.jpg)
 + [andrioid-security.png](https://raw.githubusercontent.com/SecWiki/sec-chart/master/andrioid-security.png)
 + [密码找回逻辑漏洞总结.png](https://raw.githubusercontent.com/SecWiki/sec-chart/master/密码找回逻辑漏洞总结.png)
